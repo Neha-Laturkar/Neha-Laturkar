@@ -29,7 +29,7 @@ Personal GitHub Profile: Projects, Skills &amp; Portfolio
 <p align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white%22 />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -80,7 +80,7 @@ Personal GitHub Profile: Projects, Skills &amp; Portfolio
 ---
 
 ## 📊 GitHub Stats
-![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NehaSutar27&show_icons=true)
+<img src="https://ghchart.rshah.org/Neha-Laturkar" />.\
 
 ---
 
